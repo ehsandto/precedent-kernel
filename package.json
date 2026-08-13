@@ -5,7 +5,13 @@
   "type": "module",
   "scripts": {
     "check:discovery": "tsx scripts/check-contract-discovery.ts",
-    "typecheck": "tsc --noEmit --skipLibCheck"
+    "typecheck": "tsc --noEmit --skipLibCheck",
+    "deploy:studionet": "tsx scripts/deploy-studionet.ts",
+    "verify:deployment": "tsx scripts/verify-deployment.ts",
+    "prove:precedent": "tsx scripts/prove-precedent.ts"
+  },
+  "dependencies": {
+    "genlayer-js": "1.1.8"
   },
   "devDependencies": {
     "@types/node": "25.9.3",
