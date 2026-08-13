@@ -37,3 +37,12 @@ npm run typecheck
 
 See [ARCHITECTURE.md](ARCHITECTURE.md), [SECURITY.md](SECURITY.md), and
 [SUBMISSION.md](SUBMISSION.md).
+
+## StudioNet proof
+
+- [Deployed contract](https://explorer-studio.genlayer.com/address/0x59422e4f6Ef82FA8ecEe6396D872a806eDDF908F)
+- [Precedent creation](https://explorer-studio.genlayer.com/tx/0x5f1fab1c7120dc1b8c0197ca24f3da6ec369e2ebc9b023801f2e8296703a5599)
+- [Conflicting proposal deterministically reused precedent](https://explorer-studio.genlayer.com/tx/0xcb7e5e9e0be69609f20a9c915591a7f656773fb26bc14b8db285df2fbf315777)
+
+See [DEPLOYMENT_EVIDENCE.md](DEPLOYMENT_EVIDENCE.md) for exact stored state and
+source verification.
